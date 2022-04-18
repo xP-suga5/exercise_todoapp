@@ -34,7 +34,6 @@
     <tr>
       <td>
         {{$todo->created_at}}
-        {{$todo->updated_at}}
       </td>
 
       <td>
